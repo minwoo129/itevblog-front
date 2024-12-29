@@ -1,7 +1,7 @@
 ---
 name: "Feature \bTemplate"
 about: 기능 개발시 이슈 템플릿
-title: ''
+title: "[feat]"
 labels: 개발
 assignees: ''
 
